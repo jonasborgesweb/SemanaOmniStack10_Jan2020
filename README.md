@@ -13,4 +13,6 @@ Itens necessário para rodar a aplicação
 ````
 ├── Node
 ├── Yarn
+├── Express
+├── Mongoose
 ````
